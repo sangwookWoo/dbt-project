@@ -1,3 +1,7 @@
+### Blog
+https://velog.io/@wjddm3/%EB%A1%9C%EC%BB%AC-%EC%B4%88%EA%B2%BD%EB%9F%89-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DBT-DuckDB
+
+```
 ├── README.md
 ├── dbt_duckdb
 │   ├── README.md
@@ -18,3 +22,4 @@
 │   ├── snapshots
 └── logs
     └── dbt.log
+```
