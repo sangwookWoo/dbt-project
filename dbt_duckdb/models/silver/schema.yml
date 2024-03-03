@@ -1,0 +1,13 @@
+
+version: 2
+
+models:
+  - name: silver.seoul_silver
+    description: "서울시 소득별 및 이동현황 중간 가공 데이터"
+
+sources:
+  - name: bronze
+    description: "원본 데이터"
+    tables:
+      - name: seoul_bronze
+        description : "서울시 소득별 및 이동현황 RAW 데이터"

@@ -1,0 +1,6 @@
+
+version: 2
+
+models:
+  - name: gold.seoul_gold
+    description: "서울시 소득별 및 이동현황 최종 마트1"
